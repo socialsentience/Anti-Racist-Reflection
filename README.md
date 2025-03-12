@@ -41,20 +41,20 @@ According to UNICEF, racism and discrimination against children based on their e
 Cultural appropriation involves adopting elements of a culture by members of another culture, often without acknowledgment or respect. It is especially controversial when a dominant culture appropriates from minority cultures, potentially reinforcing power dynamics and harming the marginalized culture. Distinguishing between cultural appreciation and exploitation requires considering context, intention, and whether the original creators receive credit or compensation.\[15]\[16]\[17]
 
 ## References:
-[1]https://worldjusticeproject.org/news/discrimination-getting-worse-globally\
-[2]https://www.pewresearch.org/short-reads/2021/11/02/more-people-globally-see-racial-ethnic-discrimination-as-a-serious-problem-in-the-u-s-than-in-their-own-society/\
-[3]https://www.thecrimson.com/column/between-the-lines/article/2018/8/10/gao-who-can-be-racist/\
-[4]https://unitedwaynca.org/blog/levels-of-racism/\
-[5]https://www.atrainceu.com/content/1-bias-implicit-and-explicit\
-[6]https://www.learningforjustice.org/magazine/fall-2015/whats-colorism\
-[7]https://www.verywellmind.com/what-is-colorism-5077380\
-[8]https://time.com/4512430/colorism-in-america/
-[9]https://carnegieendowment.org/2020/07/15/global-democracy-supporters-must-confront-systemic-racism-pub-82298\
-[10]https://pmc.ncbi.nlm.nih.gov/articles/PMC8129841/\
-[11]https://www.amnesty.org/en/what-we-do/discrimination/racial-justice/
-[12]https://www.womankind.org.uk/intersectionality-101-what-is-it-and-why-is-it-important/
-[13]https://hbr.org/2023/04/how-colorism-affects-women-at-work
-[14]https://www.unicef.org/press-releases/racism-and-discrimination-against-children-rife-countries-worldwide
-[15]https://en.wikipedia.org/wiki/Cultural_appropriation
-[16]https://floridaseminoletourism.com/cultural-appropriation-vs-cultural-appreciation/
-[17]https://www.edi.nih.gov/blog/communities/appropriation-and-appreciation-whats-difference
+[1] https://worldjusticeproject.org/news/discrimination-getting-worse-globally <br />
+[2] https://www.pewresearch.org/short-reads/2021/11/02/more-people-globally-see-racial-ethnic-discrimination-as-a-serious-problem-in-the-u-s-than-in-their-own-society/ <br />
+[3] https://www.thecrimson.com/column/between-the-lines/article/2018/8/10/gao-who-can-be-racist/ <br />
+[4] https://unitedwaynca.org/blog/levels-of-racism/ <br />
+[5] https://www.atrainceu.com/content/1-bias-implicit-and-explicit <br />
+[6] https://www.learningforjustice.org/magazine/fall-2015/whats-colorism <br />
+[7] https://www.verywellmind.com/what-is-colorism-5077380 <br />
+[8] https://time.com/4512430/colorism-in-america/ <br />
+[9] https://carnegieendowment.org/2020/07/15/global-democracy-supporters-must-confront-systemic-racism-pub-82298 <br />
+[10] https://pmc.ncbi.nlm.nih.gov/articles/PMC8129841/ <br />
+[11] https://www.amnesty.org/en/what-we-do/discrimination/racial-justice/ <br />
+[12] https://www.womankind.org.uk/intersectionality-101-what-is-it-and-why-is-it-important/ <br />
+[13] https://hbr.org/2023/04/how-colorism-affects-women-at-work/ <br />
+[14] https://www.unicef.org/press-releases/racism-and-discrimination-against-children-rife-countries-worldwide/ <br />
+[15] https://en.wikipedia.org/wiki/Cultural_appropriation/ <br />
+[16] https://floridaseminoletourism.com/cultural-appropriation-vs-cultural-appreciation/ <br />
+[17] https://www.edi.nih.gov/blog/communities/appropriation-and-appreciation-whats-difference <br />
